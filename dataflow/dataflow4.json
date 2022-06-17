@@ -66,6 +66,7 @@
 				"     partitionBy('hash', 1)) ~> dept101@(dept101, dept201, dept301, default)",
 				"dept101@dept101 sink(allowSchemaDrift: true,",
 				"     validateSchema: false,",
+				"     partitionFileNames:['101'],",
 				"     umask: 0022,",
 				"     preCommands: [],",
 				"     postCommands: [],",
