@@ -12,6 +12,7 @@
 						"value": "@pipeline().parameters.folderNames",
 						"type": "Expression"
 					},
+					"isSequential": false,
 					"activities": [
 						{
 							"name": "Copy data1",
