@@ -1,0 +1,9 @@
+{
+	"name": "adfintroday1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1bcb2573-684f-4b11-a5af-ab8c31739ad0",
+		"tenantId": "d7d8584f-4c39-4b9c-928c-a787f09f82f6"
+	}
+}
